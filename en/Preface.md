@@ -31,4 +31,4 @@ Part of the reason why the implementation is so broken is that it doesn't contai
 *Do you agree with me, Qualcomm?*
 
 ## How?
- 
+ Some how i dont know
